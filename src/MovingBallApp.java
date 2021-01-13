@@ -42,6 +42,8 @@ public class MovingBallApp extends AbstractSimulation {
         double startingY = control.getDouble("Starting Y position");
         circle.setY(startingY);
 
+
+
         // Instead of appending x, y coordinates to plot frame,
         //    add the Circle which maintains its own x, y.
         plotFrame.addDrawable(circle);
