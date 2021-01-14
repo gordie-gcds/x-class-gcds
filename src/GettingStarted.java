@@ -11,7 +11,7 @@ import java.awt.Color;
 public class GettingStarted {
     public static void main(String[] args) {
         /*
-             Polynomial examples
+             Polynomial examples gordie
          */
         Polynomial fx = new Polynomial(2);
         Polynomial vx = new Polynomial(new double[]{1, 2, 3});
